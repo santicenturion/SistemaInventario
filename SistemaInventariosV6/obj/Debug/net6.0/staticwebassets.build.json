@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fNEAa9AasmxT+qmG95WBt7BjyE3S0NTVFurThLzozHQ=",
+  "Hash": "NxhWybcjCOF7yapJLZ2RAPB2DCLH8L4pfYQsgyl5yCM=",
   "Source": "SistemaInventariosV6",
   "BasePath": "_content/SistemaInventariosV6",
   "Mode": "Default",
@@ -1120,6 +1120,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\Bodega.js"
+    },
+    {
+      "Identity": "C:\\Users\\fabia\\OneDrive\\Escritorio\\SistemaInventariosV6\\SistemaInventariosV6\\wwwroot\\js\\Categoria.js",
+      "SourceId": "SistemaInventariosV6",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\fabia\\OneDrive\\Escritorio\\SistemaInventariosV6\\SistemaInventariosV6\\wwwroot\\",
+      "BasePath": "_content/SistemaInventariosV6",
+      "RelativePath": "js/Categoria.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Categoria.js"
     },
     {
       "Identity": "C:\\Users\\fabia\\OneDrive\\Escritorio\\SistemaInventariosV6\\SistemaInventariosV6\\wwwroot\\js\\site.js",
